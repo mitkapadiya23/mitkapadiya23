@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
-<p align="center">💻 Full Stack Developer | 3+ Years of Experience | JavaScript Enthusiast</p>
+<h1 align="center">Hey there, I'm Mit Kapdiya 👋</h1>
+<p align="center">💻 Full Stack Developer | MERN | MEAN | Laravel</p>
 
 ---
 
